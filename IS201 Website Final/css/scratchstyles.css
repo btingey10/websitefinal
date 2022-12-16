@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(211, 161, 239);
+    background-color: beige;
+    
+}
+.common{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(156, 53, 229);
+    position: relative;
+}
+h1 {font-style: italic;}
+li {
+    font-weight: normal;
+}
+.bold{
+    font-weight: bold;
+}
+.justify{
+    text-align:justify ;
+}
+.acolor{
+    color: aliceblue;
+}
+.homebg{
+    background-image: url(https://media.licdn.com/dms/image/D4D03AQFaI_63Oijzrw/profile-displayphoto-shrink_800_800/0/1663808109122?e=1676505600&v=beta&t=pQqO8lRpqL3UYrk5ryt0yt0ztzldnSQsGY-8czmYTJA);
+    background-position: top right;
+    background-size: 100%;
+}
